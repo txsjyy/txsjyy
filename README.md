@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://raw.githubusercontent.com/txsjyy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/txsjyy/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
