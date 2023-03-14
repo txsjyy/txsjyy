@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a current student at UT Austin. Programming is my passion.
+- I'm a current student at UT Austin. Programming is my passion.
+- Personal website: https://txsjyy.github.io
 
 <!--
 **txsjyy/txsjyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
