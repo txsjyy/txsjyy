@@ -1,23 +1,27 @@
-### Hi there 👋
-- I'm a current student at UT Austin. Programming is my passion.
-- Personal website: https://txsjyy.github.io
+# Hi, I'm Junyu 👋
 
-<!--
-**txsjyy/txsjyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer for Payments, Subscriptions & Risk**
 
-Here are some ideas to get you started:
+I build AI-powered systems for payments and subscriptions, with a focus on
+fraud prevention, risk controls, security, and reliable backend infrastructure.
+My experience spans production AI workflows, high-volume data systems, and
+end-to-end product delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://raw.githubusercontent.com/txsjyy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/txsjyy/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/txsjyy/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/txsjyy/github-stats/master/generated/languages.svg#gh-light-mode-only)
+## Selected work
 
+- **OpenArt AI platform** — production model integrations, backend services,
+  analytics, and large-scale data migration. See my [case study](https://web.txsjyy.net/projects/openart-platform).
+- **GalaGate** — event operations product for attendee check-in, raffles,
+  sponsors, and analytics. [Source](https://github.com/txsjyy/GalaGate)
+- **SnapLink** — URL management platform with link lifecycle rules and click
+  analytics. [Source](https://github.com/txsjyy/Comp_539_Project_Group1)
+
+## Engineering interests
+
+Payment and subscription integrity · Fraud prevention · Risk controls · Secure
+backend systems · Production AI · Data reliability
+
+🌐 [Portfolio](https://web.txsjyy.net/) · 💼 [LinkedIn](https://linkedin.com/in/junyu-yao-txsjyy)
+
+> Payment and risk engineering is my current focus area; the projects above
+> describe my production AI and product engineering experience.
